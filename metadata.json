@@ -1,0 +1,9 @@
+{
+  "name": "K-Pop Profile & Discography Studio Generator",
+  "description": "Generates complete K-pop group and soloist profiles with member details, discography records, album cover design studio, track-by-track MV setting looks and member concept outfits, authentic lyric writing with varied rhyme schemes, 1-click copyable music style prompts for Suno/Udio/DAWs, audio studio synthesis, and fandom merchandise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "prompt": ""
+}
